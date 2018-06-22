@@ -1,1 +1,3 @@
 # AQC107-XenServer
+MD5 (AQC107-1.0-1.x86_64.rpm) = 54c10ace3110de266b1e1fb642551007
+
